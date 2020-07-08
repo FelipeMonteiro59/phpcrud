@@ -4,7 +4,7 @@ class Banco
 {
     private static $dbNome = 'globotransportes_crudteste';
     private static $dbHost = 'localhost';
-    private static $dbUsuario = 'gtmaster';
+    private static $dbUsuario = 'globotransportes_gtmaster';
     private static $dbSenha = 'fJLw0mfAf3Ih';
     
     private static $cont = null;
